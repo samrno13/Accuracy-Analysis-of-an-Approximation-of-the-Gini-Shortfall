@@ -6,7 +6,7 @@
 
 **Overview**
 
-This project showcases an accuracy analysis on one approximation formula of the Gini Shortfall (a risk measure) for the truncated Normal Distribution and the bounded Pareto distribution. This is an excerpt of chapter 3 from my master’s thesis. The notebook demonstrates accuracy analysis using R. It includes reproducible code and explanations designed for clarity and transparency.
+This project showcases an accuracy analysis on one approximation formula of the Gini Shortfall (a risk measure) for the truncated Normal Distribution and the bounded Pareto distribution. To test for accuracy of the approximation formula of the Gini Shortfall, we calculate the absolute error because the computation methods that were implemented did not use any iterative method. This is an excerpt of chapter 3 from my master’s thesis. The notebook demonstrates accuracy analysis using R. It includes reproducible code and explanations designed for clarity and transparency.
 
 **Contents**
 
